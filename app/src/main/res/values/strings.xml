@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">MDC Theming</string>
+
+    <string name="title_theming">Theming</string>
+    <string name="title_bottom_app_bar">Bottom App Bar</string>
+    <string name="title_bottom_navigation">Bottom Navigation</string>
+    <string name="title_bottom_sheet">Bottom Sheets</string>
+    <string name="title_button">Buttons</string>
+    <string name="title_chip">Chips</string>
+    <string name="title_card">Cards</string>
+    <string name="title_dialog">Dialogs</string>
+    <string name="title_selection_control">Selection Controls</string>
+
+</resources>
